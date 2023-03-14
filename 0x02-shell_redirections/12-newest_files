@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -ti |head -n 10
+
